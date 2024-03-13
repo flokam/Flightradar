@@ -1,5 +1,5 @@
 theory IFC
-  imports "../Refinement"
+  imports Refinement
 begin
 
 declare [[show_types]]
